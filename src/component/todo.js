@@ -15,7 +15,7 @@ const Todo = () => {
   return (
     <SafeAreaView>
       <View>
-        <text> Hello React ! </text>
+        <text> Hello React from home </text>
       </View>
     </SafeAreaView>
   )

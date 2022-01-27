@@ -63,7 +63,9 @@ const App = () => {
 
   return (
     <Provider store={store}>
-
+      <SafeAreaView>
+        
+      </SafeAreaView>
     </Provider>
   );
 };
